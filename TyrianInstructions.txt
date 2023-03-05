@@ -1,0 +1,36 @@
+			------------------------------
+			------------TYRIAN------------
+			------------------------------
+			 Welcome to the rebellion cadet!
+
+		Your mission is to seek and destroy any enemy ahead!
+		Make your shots count as the world depends on you!
+		Here is your mission brief:
+		
+		1: Destory enemy ships ahead! We need the mothership
+		   exposed so that we can focus on it with full power!
+
+		2: Watch out! Destoying the mothership will not be the end!
+		   There are still two others! Show them why we are a strong
+		   force!
+
+		And cadet go make us proud, our future is on your hands!
+
+		POWERUPS:
+		1: F - This item will give you a weapon with a higher fire rate!
+		2: S - This item will upgrade you engine to give you a better speed!
+		3: X - This item will add a second weapon to your ship to help take
+		       out more enemies at a time!
+		
+		OBSTACLES:
+		1: Ship remains - When enemy ship is wrecked there is a chance that the 
+		   remains could come and hurt you so watch out!
+
+		2: Comets - Comets in space will come in your way! Dodge them or pay the 
+		   price!
+
+		3: Black Holes - Do not collide with the black hole as this will hurt you!
+				 it will also suck your bullets in and throw them in a 
+				 unpredictable way!
+			
+ 
